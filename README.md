@@ -1,4 +1,4 @@
-# Finance-Basic-Programming
+# Finance_Basic_Programming
 
 Course : 
 - Data Types and Structures
